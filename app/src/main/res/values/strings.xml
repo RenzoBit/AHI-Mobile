@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AHI Mobile</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="btnNuevoViaje">Nuevo viaje</string>
+    <string name="btnReanudarViaje">Reanudar viaje</string>
+    <string name="btnNuevoVehiculo">Nuevo vehículo</string>
+    <string name="textViewId">Nuevo id</string>
+    <string name="textViewName">Nuevo nombre</string>
+    <string name="lblPlaca">Placa</string>
+    <string name="lblEnvio">Enviando ubicación</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnFinalizarEnvio">Finalizar envío</string>
+</resources>

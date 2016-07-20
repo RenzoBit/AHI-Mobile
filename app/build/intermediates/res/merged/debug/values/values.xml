@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AHI Mobile</string>
+    <string name="btnFinalizarEnvio">Finalizar envío</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnNuevoVehiculo">Nuevo vehículo</string>
+    <string name="btnNuevoViaje">Nuevo viaje</string>
+    <string name="btnReanudarViaje">Reanudar viaje</string>
+    <string name="lblEnvio">Enviando ubicación</string>
+    <string name="lblPlaca">Placa</string>
+    <string name="textViewId">Nuevo id</string>
+    <string name="textViewName">Nuevo nombre</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="android:Theme.Black"/>
+</resources>
